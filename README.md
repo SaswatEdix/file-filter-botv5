@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 
-<a href="https://m.youtube.com/channel/UCT_qUqV8ZN8u8yk45ZtKzIw">
+<a href="https://dashboard.heroku.com/apps/tgfileeuploads">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
